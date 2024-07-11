@@ -2,10 +2,7 @@
 ![image](https://github.com/kokojimz/students-data-record-app/assets/93468154/d49666ca-bef4-4ba9-969f-c2190f5c9b3e)
 
 ## About 
-A simple Android application that utilizes SQLite. This application is capable of recording student data along with the courses they are enrolled in. The details of the data are in the following table:
-
-![image](https://github.com/kokojimz/students-data-record-app/assets/93468154/264a4942-bccc-41df-b19f-353d23d50bdb)
-
+A simple Android application that utilizes SQLite. This application is capable of recording student data along with the courses they are enrolled in.
 ## Features 
 <ul>
   <li>Allows for adding and deleting student data.</li>
