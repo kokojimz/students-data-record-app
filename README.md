@@ -20,5 +20,4 @@ Download the apk file : [APK ](https://drive.google.com/file/d/1um9LnjSzfBD_4HEH
 
 ## Preview
 
-https://github.com/kokojimz/students-data-record-app/assets/93468154/85155753-e2a7-4516-b713-30e4dc17f88c
-
+https://github.com/kokojimz/students-data-record-app/assets/93468154/630362a5-bfb2-49a8-b64b-41d1f1726bd5
